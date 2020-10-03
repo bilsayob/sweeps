@@ -1,0 +1,6 @@
+name = "sweeps"
+type = "javascript"
+account_id = "edbebf8d2a181febd02dc6a80a9dc7fb"
+workers_dev = true
+route = ""
+zone_id = ""
